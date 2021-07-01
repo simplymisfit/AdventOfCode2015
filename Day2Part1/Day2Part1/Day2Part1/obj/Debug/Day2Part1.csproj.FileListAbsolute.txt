@@ -1,0 +1,7 @@
+H:\Users\Filip\source\repos\AdventOfCode2015\AdventOfCode2015\Day2Part1\Day2Part1\Day2Part1\bin\Debug\Day2Part1.exe.config
+H:\Users\Filip\source\repos\AdventOfCode2015\AdventOfCode2015\Day2Part1\Day2Part1\Day2Part1\bin\Debug\Day2Part1.exe
+H:\Users\Filip\source\repos\AdventOfCode2015\AdventOfCode2015\Day2Part1\Day2Part1\Day2Part1\bin\Debug\Day2Part1.pdb
+H:\Users\Filip\source\repos\AdventOfCode2015\AdventOfCode2015\Day2Part1\Day2Part1\Day2Part1\obj\Debug\Day2Part1.csproj.CoreCompileInputs.cache
+H:\Users\Filip\source\repos\AdventOfCode2015\AdventOfCode2015\Day2Part1\Day2Part1\Day2Part1\obj\Debug\Day2Part1.exe
+H:\Users\Filip\source\repos\AdventOfCode2015\AdventOfCode2015\Day2Part1\Day2Part1\Day2Part1\obj\Debug\Day2Part1.pdb
+H:\Users\Filip\source\repos\AdventOfCode2015\AdventOfCode2015\Day2Part1\Day2Part1\Day2Part1\obj\Debug\Day2Part1.csprojAssemblyReference.cache
