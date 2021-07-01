@@ -46,6 +46,8 @@ namespace Day2Part2
                     }
                 }
             }
+
+            position = position + 1;
             Console.WriteLine("Temp1: " + temp1 + " and position is: " + position);
         }
     }
