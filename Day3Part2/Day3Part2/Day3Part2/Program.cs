@@ -82,7 +82,7 @@ namespace Day3Part2
         {
             string input = File.ReadAllText("input.txt");
             Program p = new Program();
-            Console.WriteLine("Part 1: " + p.part2(input));
+            Console.WriteLine("Part 2: " + p.part2(input));
         }
     }
 }
