@@ -1,0 +1,7 @@
+F:\Defer\GitHub\AdventOfCode2015\Day5Part1\Day5Part1\Day5Part1\bin\Debug\Day5Part1.exe.config
+F:\Defer\GitHub\AdventOfCode2015\Day5Part1\Day5Part1\Day5Part1\bin\Debug\Day5Part1.exe
+F:\Defer\GitHub\AdventOfCode2015\Day5Part1\Day5Part1\Day5Part1\bin\Debug\Day5Part1.pdb
+F:\Defer\GitHub\AdventOfCode2015\Day5Part1\Day5Part1\Day5Part1\obj\Debug\Day5Part1.csprojAssemblyReference.cache
+F:\Defer\GitHub\AdventOfCode2015\Day5Part1\Day5Part1\Day5Part1\obj\Debug\Day5Part1.csproj.CoreCompileInputs.cache
+F:\Defer\GitHub\AdventOfCode2015\Day5Part1\Day5Part1\Day5Part1\obj\Debug\Day5Part1.exe
+F:\Defer\GitHub\AdventOfCode2015\Day5Part1\Day5Part1\Day5Part1\obj\Debug\Day5Part1.pdb
